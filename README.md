@@ -8,3 +8,5 @@ Send Project borntodev
 - Gorm
 - Postman
 - MySQL
+
+## Method

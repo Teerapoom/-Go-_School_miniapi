@@ -25,3 +25,20 @@ Send Project borntodev
 
 - Patch
     ![Logo](https://github.com/Teerapoom/-Go-_School_miniapi/blob/main/IMG/Patch.png)
+
+## Api
+```
+       "Student": [
+        {
+            "ID": 1,
+            "CreatedAt": "2024-01-06T23:12:30.096+07:00",
+            "UpdatedAt": "2024-01-08T16:36:25.831+07:00",
+            "DeletedAt": null,
+            "fullname": "Jantra Tanajaroenkij",
+            "student_id": 63104634,
+            "class_room": "4/8",
+            "gender": "Female"
+        },
+       ]
+
+```

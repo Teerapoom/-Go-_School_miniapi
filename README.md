@@ -10,3 +10,7 @@ Send Project borntodev
 - MySQL
 
 ## Method
+
+- Get All
+  
+  ![Logo](https://github.com/Teerapoom/mini_API_001/blob/main/IMG/Get.png)

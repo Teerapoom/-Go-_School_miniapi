@@ -26,6 +26,7 @@ Send Project borntodev
 - Patch
     ![Logo](https://github.com/Teerapoom/-Go-_School_miniapi/blob/main/IMG/Patch.png)
 
+
 ## Api
 ```
        "Student": [
@@ -43,4 +44,5 @@ Send Project borntodev
 
 ```
 ## Certificate
-    ![Logo](IMG/borntodev-acdemy_Introduction to Go Programming Language_certifiacte.png)
+- Introduction to Go Programming Language
+    ![Logo](https://github.com/Teerapoom/-Go-_School_miniapi/blob/main/IMG/borntodev-acdemy_Introduction%20to%20Go%20Programming%20Language_certifiacte.png)
